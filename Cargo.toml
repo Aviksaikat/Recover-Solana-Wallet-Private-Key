@@ -1,0 +1,9 @@
+[package]
+name = "recover_account"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bs58 = "0.5.1"
+ethers = "2.0.14"
+secp256k1 = "0.29.1"
