@@ -9,6 +9,8 @@ Recover the private key from a partial key and address.
 
 You need a partial key and address to recover the complete private key.
 
+![](media/demo.gif)
+
 ## Usage
 Make the following Changes
 ```rust
